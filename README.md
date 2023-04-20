@@ -1,3 +1,3 @@
 # 数理研へようこそ
 
-!()[/数理研ヘッダー.png]
+!()[MathClubThema.png]
